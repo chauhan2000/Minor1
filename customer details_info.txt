@@ -1,0 +1,12 @@
+void customerdetails()
+{
+char name[20];
+int phoneno[10];
+char address[50];
+printf("Enter your name");
+scanf("%s",name);
+printf("Enter your phone no.");
+scanf("%d",phoneno);
+printf("Enter your Complete address");
+scanf("%s",address);
+}
